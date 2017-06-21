@@ -1,0 +1,4 @@
+Info: Reading netlist file "/workspace/Harwell/schematics/pcu/processor_control_unit.net".
+
+Info: Using references to match components and footprints.
+

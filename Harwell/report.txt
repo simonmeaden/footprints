@@ -1,0 +1,238 @@
+Info: Reading netlist file "/workspace/Harwell/schematics/pcu/psu.net".
+
+Info: Using references to match components and footprints.
+
+Info: Checking netlist component footprint "C1:/58E94CFE:Capacitors_SMD:CP_Elec_6.3x7.7".
+
+Info: Checking netlist component footprint "C2:/58E94D52:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C3:/58E94D05:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C4:/5900146D:Diodes_SMD:D_0603".
+
+Info: Checking netlist component footprint "C5:/5900146B:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C6:/58E94D67:Capacitors_SMD:CP_Elec_6.3x7.7".
+
+Info: Checking netlist component footprint "C7:/58E94D75:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C8:/5903C3C4:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C9:/59001467:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C10:/59001468:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C11:/5900146F:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C12:/59001470:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C13:/58E94D60:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C14:/58E94D6E:Capacitors_SMD:CP_Elec_6.3x7.7".
+
+Info: Checking netlist component footprint "C15:/59001477:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C16:/58E94D1A:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C17:/5903F66E:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C18:/58E94D3D:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C19:/5900146C:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C20:/5900146A:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C21:/58E94D59:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C22:/5926323A:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C23:/58F63E46:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C24:/58F63FE1:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C25:/58F652DB:Capacitors_Tantalum_SMD:CP_Tantalum_Case-X_EIA-7343-43_Reflow".
+
+Info: Checking netlist component footprint "C26:/58F64223:Capacitors_Tantalum_SMD:CP_Tantalum_Case-B_EIA-3528-21_Reflow".
+
+Info: Checking netlist component footprint "C27:/58F640F1:Capacitors_Tantalum_SMD:CP_Tantalum_Case-A_EIA-3216-18_Reflow".
+
+Info: Checking netlist component footprint "C28:/59259E0C:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C29:/59001493:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C30:/5925D546:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C31:/58F66B9C:Capacitors_Tantalum_SMD:CP_Tantalum_Case-X_EIA-7343-43_Reflow".
+
+Info: Checking netlist component footprint "C32:/58F65EDE:Capacitors_Tantalum_SMD:CP_Tantalum_Case-B_EIA-3528-21_Reflow".
+
+Adding new component "C32:/58F65EDE" footprint "Capacitors_Tantalum_SMD:CP_Tantalum_Case-B_EIA-3528-21_Reflow".
+
+Changing component "C32:/58F65EDE" pin "1" net name from "" to "+5V".
+
+Changing component "C32:/58F65EDE" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C33:/5925731A:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C34:/59254FD9:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C35:/592609C8:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "C36:/58FCC242:Capacitors_Tantalum_SMD:CP_Tantalum_Case-B_EIA-3528-21_Reflow".
+
+Info: Checking netlist component footprint "C37:/58FCC23B:Capacitors_Tantalum_SMD:CP_Tantalum_Case-A_EIA-3216-18_Reflow".
+
+Info: Checking netlist component footprint "C38:/592652DE:Capacitors_SMD:C_0805".
+
+Info: Checking netlist component footprint "D1:/59001497:Diodes_SMD:D_SOD-123".
+
+Info: Checking netlist component footprint "D2:/5900149B:Diodes_SMD:D_SOD-123".
+
+Info: Checking netlist component footprint "D3:/5925CE4C:Diodes_SMD:D_SOD-123".
+
+Info: Checking netlist component footprint "JP1:/592A607C:Connectors:GS3".
+
+Info: Checking netlist component footprint "JP2:/592A5F75:Connectors:GS3".
+
+Info: Checking netlist component footprint "JP3:/592891EA:jumper:SOLDER-JUMPER_2-WAY".
+
+Info: Checking netlist component footprint "JP4:/592B7DC9:jumper:SOLDER-JUMPER_2-WAY".
+
+Info: Checking netlist component footprint "L1:/5900148E:Inductors:Inductor_Murata_3900_Series".
+
+Info: Checking netlist component footprint "L2:/5900148F:Inductors:Inductor_Murata_3900_Series".
+
+Info: Checking netlist component footprint "L3:/59001496:Inductors:Inductor_TDK_VLCF5020_Series".
+
+Info: Checking netlist component footprint "L4:/58F6686D:Inductors:Inductor_TDK_VLCF5020_Series".
+
+Info: Checking netlist component footprint "L5:/5925EB9E:Inductors:Inductor_Murata_3900_Series".
+
+Info: Checking netlist component footprint "L6:/58FCC22D:Inductors:Inductor_TDK__SLF_Series".
+
+Info: Checking netlist component footprint "M3:/5926698C:con-cambdenboss:CTBP9558_2AO".
+
+Info: Checking netlist component footprint "M4:/58FCC234:schottky:B240".
+
+Info: Checking netlist component footprint "M5:/5925444D:con-cambdenboss:CTBP9558_2AO".
+
+Info: Checking netlist component footprint "Q1:/592593DE:packages:SO8".
+
+Info: Checking netlist component footprint "Q2:/5925B6FA:packages:SO8".
+
+Info: Checking netlist component footprint "Q3:/5925BDB9:TO_SOT_Packages_SMD:SuperSOT6".
+
+Info: Checking netlist component footprint "Q4:/592624A8:TO_SOT_Packages_SMD:SuperSOT6".
+
+Info: Checking netlist component footprint "R1:/59001484:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R2:/58E94D83:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R3:/59001479:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R4:/5900147A:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R5:/58E94DA6:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R6:/58E94DB4:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R7:/58E94D9F:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R8:/5900147B:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R9:/59001486:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R10:/59001488:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R11:/58E94DEC:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R12:/58E94DD0:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R13:/58E94DC9:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R14:/58E94DBB:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R15:/5900147E:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R16:/59001485:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R17:/58E94DC2:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R18:/59256C5D:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R19:/59256DFA:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R20:/59256FB0:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R21:/59259F99:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R22:/5925A2C0:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R23:/5925F2DC:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R24:/5925F58A:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R25:/59254E30:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R26:/5925EEAB:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R27:/59265149:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R28:/59264285:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R29:/59257D17:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R30:/59264428:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R31:/59037DBF:Potentiometer:Potentiometer_Bourns_3362P".
+
+Info: Checking netlist component footprint "R32:/592B3BEB:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R33:/592B5C5D:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "R34:/592B6760:Resistors_SMD:R_0805".
+
+Info: Checking netlist component footprint "SKT1:/590BBFCE:con-weidmuller:LM2N".
+
+Info: Checking netlist component footprint "SKT2:/5930B14F:Connectors_Phoenix:PhoenixContact_MC-G_08x3.81mm_Angled".
+
+Info: Checking netlist component footprint "SKY1:/59266986:con-cambdenboss:CTBP9558_2AO".
+
+Info: Checking netlist component footprint "TH1:/59255411:Resistors_SMD:R_1206".
+
+Info: Checking netlist component footprint "TP1:/5904E766:Measurement_Points:Measurement_Point_Square-TH_Big".
+
+Info: Checking netlist component footprint "TP2:/5904E4E5:Measurement_Points:Measurement_Point_Square-TH_Big".
+
+Info: Checking netlist component footprint "TP3:/5904E5AE:Measurement_Points:Measurement_Point_Square-TH_Big".
+
+Info: Checking netlist component footprint "TP4:/5904E68B:Measurement_Points:Measurement_Point_Square-TH_Big".
+
+Info: Checking netlist component footprint "TP5:/5904F46D:Measurement_Points:Measurement_Point_Square-TH_Big".
+
+Info: Checking netlist component footprint "TP6:/59073201:Measurement_Points:Measurement_Point_Square-TH_Big".
+
+Info: Checking netlist component footprint "TP7:/5904FAB1:Measurement_Points:Measurement_Point_Square-TH_Big".
+
+Info: Checking netlist component footprint "U$1:/5900148D:mosfet:SO8".
+
+Info: Checking netlist component footprint "U$2:/59048102:mosfet:SO8".
+
+Info: Checking netlist component footprint "U$3:/59001489:regulator:TSSOP30".
+
+Info: Checking netlist component footprint "U$4:/5900148C:mosfet:SO8".
+
+Info: Checking netlist component footprint "U$5:/59049FBD:mosfet:SO8".
+
+Info: Checking netlist component footprint "U1:/5900148B:mosfet:SO8".
+
+Info: Checking netlist component footprint "U2:/5900148A:mosfet:SO8".
+
+Info: Checking netlist component footprint "U3:/58F63CEA:SMD_Packages:SO-16-W".
+
+Info: Checking netlist component footprint "U4:/59256744:SMD_Packages:SSOP-24".
+
+Info: Checking netlist component footprint "U5:/58FCC226:SMD_Packages:TSOT-23-5".
+
+Error: Component 'U3' pad '~' not found in footprint 'SMD_Packages:SO-16-W'
+
